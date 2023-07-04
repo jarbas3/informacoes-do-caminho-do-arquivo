@@ -1,0 +1,1 @@
+* Informações do caminho do arquivo usando a classe File.
